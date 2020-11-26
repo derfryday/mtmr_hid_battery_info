@@ -28,8 +28,9 @@ configure MTMR to display the mouse and or keyboard status
   },
 ```
 Replace `<SCRIPT_PATH>` with the path to your hid-batt_info.sh.
-replace `<DEVICE>` with either `mouse` or `keyboard`.
-If you want both device just add the entry 2 times and change the device accordingly.
+replace `<DEVICE>` with either `mouse`, `keyboard` or `system`.
+If you want both device just add the entry for each device you want and change the device accordingly.
+The `system` is a replacement for the normal battery info because Steffen insisted on having all battery infos in the same style.
 
 ## Configuration
 
