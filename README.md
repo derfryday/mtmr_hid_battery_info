@@ -8,11 +8,11 @@ This script will notify the user every 10 minutes when the Battery level of the 
 The notification interval and threshold can be changed, see Configuration for more info.
 
 It could look a little something like this
-![touchbar screenshot](https://gitlab.adup.euc1.lan/e.freitag/hid-battery-info/-/raw/master/screenshot.png)
+![touchbar screenshot](screenshot.png)
 
 ## Installation
 
-`git clone git@gitlab.adup.euc1.lan:e.freitag/hid-battery-info.git`
+`git clone git@github.com:derfryday/mtmr_hid_battery_info.git`
 
 configure MTMR to display the mouse and or keyboard status
 
